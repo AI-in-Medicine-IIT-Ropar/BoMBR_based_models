@@ -20,7 +20,7 @@ BoMBR_based_models/
 ├── inference_on_both_models.ipynb                             # Combined inference pipeline (segmentation → classification)
 └── README.md
 
-
+```
 ---
 
 ##  Description
