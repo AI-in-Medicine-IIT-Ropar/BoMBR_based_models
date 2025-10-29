@@ -8,14 +8,15 @@ The repository provides scripts to train and perform inference on both the **seg
 ---
 
 ## 🧬 Repository Overview
+
 BoMBR_based_models/
 │
 ├── Classification-Model/
-│ ├── classification_model_architecture_and_training.ipynb # Training notebook for fibrosis grade classification
-│ ├── publish.csv # Metadata file (fibrosis grade, hemorrhage presence)
+│   ├── classification_model_architecture_and_training.ipynb
+│   └── publish.csv
 │
 ├── Segmentation-Model/
-│ ├── Xception_512_model_training.ipynb # Training script for segmentation model
+│   └── Xception_512_model_training.ipynb
 │
-├── inference_on_both_models.ipynb # Combined inference pipeline (segmentation → classification)
+├── inference_on_both_models.ipynb
 └── README.md
