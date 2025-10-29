@@ -10,6 +10,7 @@ The repository provides scripts to train and perform inference on both the **seg
 ## 🧬 Repository Overview
 
 BoMBR_based_models/
+|
 ├── Classification-Model/
 │   ├── classification_model_architecture_and_training.ipynb
 
