@@ -31,7 +31,7 @@ BoMBR_based_models/
 - The segmentation model output is an **integer-encoded mask** corresponding to the tissue regions.
 
 **Input format:**  
-- RGB histopathological biopsy image (resized to 512×512, normalized to [0,1])  
+- RGB histopathological biopsy image (resized to 512×512)  
 
 **Output format:**  
 - Integer-encoded segmentation mask (values correspond to tissue classes)
