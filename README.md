@@ -6,7 +6,7 @@ This repository contains the official code accompanying the paper **“BoMBR: Bo
 The repository provides scripts to train and perform inference on both the **segmentation** and **classification** models described in the paper. Together, these models form a pipeline for analyzing bone marrow biopsy (BMB) images for fibrosis grading.
 
 ---
-
+🧬 Repository Overview
 ```text
 BoMBR_based_models/
 │
