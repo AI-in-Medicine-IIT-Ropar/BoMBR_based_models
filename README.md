@@ -63,7 +63,7 @@ The notebook `inference_on_both_models.ipynb` performs **end-to-end inference**:
 
 The dataset used in this project — **BoMBR (Bone Marrow Biopsy Reticulin dataset)** — is publicly available on **Zenodo**:
 
-** Dataset DOI:** [https://doi.org/10.5281/zenodo.13690617](https://doi.org/10.5281/zenodo.13690617)
+**Dataset DOI:** [https://doi.org/10.5281/zenodo.13690617](https://doi.org/10.5281/zenodo.13690617)
 
 The dataset contains digitized bone marrow biopsy images with corresponding **integer-encoded segmentation masks** and **fibrosis grading annotations**.
 
