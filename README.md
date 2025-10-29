@@ -12,8 +12,8 @@ The repository provides scripts to train and perform inference on both the **seg
 BoMBR_based_models/
 ├── Classification-Model/
 │   ├── classification_model_architecture_and_training.ipynb
-│   └── publish.csv
+
 ├── Segmentation-Model/
-│   └── Xception_512_model_training.ipynb
+
 ├── inference_on_both_models.ipynb
 └── README.md
